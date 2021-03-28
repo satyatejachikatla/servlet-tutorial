@@ -1,0 +1,6 @@
+Servers
+.metadata
+vendor/apache*
+vendor/downloads/*
+vendor/eclipse
+vendor/jdk*
